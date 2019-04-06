@@ -34,8 +34,6 @@ Next, add the below dependencies to build.gradle file:
 
 ```java
 implementation 'me.cheshmak:analytics:3.+'
-implementation "com.google.firebase:firebase-messaging:17.3.4"
-implementation "com.google.firebase:firebase-ads:17.1.3"
 
 ```
 
