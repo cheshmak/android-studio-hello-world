@@ -33,7 +33,8 @@ repositories {
 Next, add the below dependencies to build.gradle file:
 
 ```java
-implementation 'me.cheshmak:analytics:3.+'
+implementation 'me.cheshmak:analytics:4.+'
+implementation 'com.google.firebase:firebase-messaging:17.6.0'
 
 ```
 
