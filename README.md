@@ -13,7 +13,6 @@ Insert the following permissions into your AndroidManifest.xml file.
 ```xml
 ​<uses-permission android:name="android.permission.INTERNET" />​
 ​<uses-permission android:name="android.permission.VIBRATE" />​
-<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 ```
 The last two permissions are optional and are recommended to increase ad monetization and targeting.
 
